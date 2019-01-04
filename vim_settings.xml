@@ -1,0 +1,25 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/my-dream-app/src/app/app.component.html" timestamp="1531101503561">
+        <mark key="'" line="3" column="3" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="0" column="0" filename="$USER_HOME$/my-dream-app/src/app/app.component.html" />
+      <jump line="3" column="3" filename="$USER_HOME$/my-dream-app/src/app/app.component.html" />
+    </jumps>
+    <registers />
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history />
+    <shortcut-conflicts />
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
