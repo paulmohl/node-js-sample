@@ -6,6 +6,9 @@
       <file name="$USER_HOME$/my-dream-app/src/app/app.component.html" timestamp="1531101503561">
         <mark key="'" line="3" column="3" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/willywonka/main.ts" timestamp="1548631354315">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/my-dream-app/src/app/app.component.html" />
@@ -16,7 +19,12 @@
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts />
     <editor>
       <key-repeat enabled="true" />
