@@ -3,18 +3,22 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" timestamp="1553210886699">
-        <mark key="'" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1553213559620">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/WillyWonka/app.json" timestamp="1553211742067" />
       <file name="$USER_HOME$/my-dream-app/src/app/app.component.html" timestamp="1531101503561">
         <mark key="'" line="3" column="3" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/willywonka/main.ts" timestamp="1548631354315">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/WillyWonka/src/App.js" timestamp="1553211821329" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" timestamp="1553210886699">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/WillyWonka/src/App.js" timestamp="1553213455842">
+        <mark key="[" line="42" column="38" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/my-dream-app/src/app/app.component.html" />
@@ -32,7 +36,11 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
     <editor>
       <key-repeat enabled="true" />
     </editor>
