@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WebstormProjects/zap/zapsite/src/App.js" timestamp="1557274896227">
-        <mark key="[" line="11" column="37" />
-        <mark key="]" line="11" column="44" />
-        <mark key="." line="11" column="44" />
+      <file name="$USER_HOME$/WebstormProjects/zap/zapsite/src/App.js" timestamp="1557280824720">
+        <mark key="[" line="26" column="24" />
+        <mark key="]" line="20" column="44" />
+        <mark key="." line="20" column="44" />
       </file>
       <file name="/Dummy.txt" timestamp="1553213559620">
         <mark key="[" line="0" column="0" />
@@ -19,6 +19,7 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="4" column="14" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/zap/zapsite/src/NavBar.jsx" timestamp="1557281464367" />
       <file name="$USER_HOME$/WebstormProjects/willywonka/main.ts" timestamp="1548631354315">
         <mark key="[" line="0" column="0" />
       </file>
@@ -27,6 +28,9 @@
       </file>
       <file name="$USER_HOME$/WillyWonka/src/App.js" timestamp="1553213455842">
         <mark key="[" line="42" column="38" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/zap/zapsite/public/styles.css" timestamp="1557281194088">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/zap/zapsite/src/thirdParty/ReactYouTubeExample.js" timestamp="1557271657025">
         <mark key="[" line="6" column="0" />
@@ -37,8 +41,8 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1557249888585">
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/my-dream-app/src/app/app.component.html" timestamp="1531101503561">
-        <mark key="'" line="3" column="3" />
+      <file name="$USER_HOME$/WebstormProjects/zap/zapsite/src/App.css" timestamp="1557280930614">
+        <mark key="[" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/zetaalphaphi/zetaalphaphi/src/App.js" timestamp="1554212306291">
         <mark key="[" line="7" column="11" />
