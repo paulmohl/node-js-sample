@@ -3,10 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WebstormProjects/zap/zapsite/src/App.js" timestamp="1557272260312">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="7" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1553213559620">
         <mark key="[" line="0" column="0" />
       </file>
