@@ -3,7 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WebstormProjects/supersite/powerman/src/index.js" timestamp="1557366760474">
+      <file name="$USER_HOME$/WebstormProjects/supersite/powerman/src/client/app/components/App.jsx" timestamp="1557424756106">
+        <mark key="[" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/supersite/powerman/src/index.js" timestamp="1557424066078">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="4" column="23" />
         <mark key="^" line="4" column="23" />
@@ -12,6 +15,7 @@
       <file name="$USER_HOME$/WebstormProjects/zap/zapsite/firebase.json" timestamp="1557339957952">
         <mark key="[" line="11" column="4" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/supersite/powerman/public/styles.css" timestamp="1557423404178" />
       <file name="$USER_HOME$/WebstormProjects/willywonka/main.ts" timestamp="1548631354315">
         <mark key="[" line="0" column="0" />
       </file>
@@ -48,8 +52,14 @@
       <file name="$USER_HOME$/WebstormProjects/supersite/powerman/src/components/HeaderComponent.js" timestamp="1557408600290">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/supersite/powerman/src/client/styles/main.less" timestamp="1557424872403">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/WebstormProjects/supersite/powerman/src/components/MainComponent.js" timestamp="1557408059034">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/supersite/powerman/src/client/app/webpack.config.js" timestamp="1557425207277">
+        <mark key="[" line="7" column="4" />
       </file>
       <file name="$USER_HOME$/WillyWonka/src/App.js" timestamp="1553213455842">
         <mark key="[" line="42" column="38" />
@@ -72,10 +82,10 @@
       <file name="$USER_HOME$/WebstormProjects/zap/zapsite/thirdParty/App.js" timestamp="1557255107349">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/supersite/powerman/src/App.js" timestamp="1557359131449" />
       <file name="$USER_HOME$/WebstormProjects/zetaalphaphi/zetaalphaphi/src/index.js" timestamp="1554212263776">
         <mark key="[" line="5" column="3" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/supersite/powerman/src/index.jsx" timestamp="1557423798460" />
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/my-dream-app/src/app/app.component.html" />
