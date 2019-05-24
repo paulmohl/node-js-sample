@@ -3,16 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/zapsite/src/serviceWorker.js" timestamp="1558660442653" />
-      <file name="$USER_HOME$/git/me/src/components/introduction.jsx" timestamp="1558662396457">
-        <mark key="[" line="16" column="26" />
-      </file>
-      <file name="$USER_HOME$/git/me/src/components/ImageGallery.jsx" timestamp="1558713629753">
+      <file name="$USER_HOME$/git/me/src/components/ImageGallery.jsx" timestamp="1558719541714">
         <mark key="'" line="340" column="0" />
-        <mark key="[" line="340" column="0" />
+        <mark key="[" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/zapsite/package.json" timestamp="1558647135148" />
-      <file name="$USER_HOME$/Desktop/zapsite/src/App.css" timestamp="1558660482220" />
       <file name="$USER_HOME$/Desktop/zapsite/src/index.css" timestamp="1558660554624">
         <mark key="[" line="1" column="2" />
       </file>
@@ -28,14 +23,20 @@
         <mark key="]" line="20" column="79" />
         <mark key="." line="20" column="66" />
       </file>
+      <file name="$USER_HOME$/git/me/src/App.js" timestamp="1558714176686">
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/zapsite/src/serviceWorker.js" timestamp="1558660442653" />
+      <file name="$USER_HOME$/git/me/src/components/introduction.jsx" timestamp="1558662396457">
+        <mark key="[" line="16" column="26" />
+      </file>
+      <file name="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/react.d.ts" timestamp="1558719169975" />
+      <file name="$USER_HOME$/Desktop/zapsite/src/App.css" timestamp="1558660482220" />
       <file name="$USER_HOME$/git/me/src/components/about.jsx" timestamp="1558713550175">
         <mark key="'" line="28" column="47" />
         <mark key="[" line="62" column="0" />
         <mark key="]" line="50" column="0" />
         <mark key="." line="49" column="38" />
-      </file>
-      <file name="$USER_HOME$/git/me/src/App.js" timestamp="1558714176686">
-        <mark key="[" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/git/me/src/components/blog.jsx" timestamp="1558713474022" />
       <file name="$USER_HOME$/Desktop/zapsite/src/App.test.js" timestamp="1558660533856" />
