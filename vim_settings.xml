@@ -21,7 +21,8 @@
       <file name="$USER_HOME$/Desktop/zapsite/src/pages/index.js" timestamp="1558658515393">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/me/src/components/sidebar.jsx" timestamp="1558663090522">
+      <file name="$USER_HOME$/git/me/src/components/sidebar.jsx" timestamp="1558711366138">
+        <mark key="'" line="30" column="16" />
         <mark key="[" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/git/me/src/components/about.jsx" timestamp="1558662349756">
@@ -43,6 +44,7 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" />
       <jump line="6" column="0" filename="$USER_HOME$/WebstormProjects/zap/zapsite/src/App.js" />
       <jump line="28" column="47" filename="$USER_HOME$/git/me/src/components/about.jsx" />
+      <jump line="30" column="16" filename="$USER_HOME$/git/me/src/components/sidebar.jsx" />
     </jumps>
     <registers>
       <register name="1" type="2">
