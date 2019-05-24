@@ -7,6 +7,10 @@
       <file name="$USER_HOME$/git/me/src/components/introduction.jsx" timestamp="1558662396457">
         <mark key="[" line="16" column="26" />
       </file>
+      <file name="$USER_HOME$/git/me/src/components/ImageGallery.jsx" timestamp="1558713629753">
+        <mark key="'" line="340" column="0" />
+        <mark key="[" line="340" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/zapsite/package.json" timestamp="1558647135148" />
       <file name="$USER_HOME$/Desktop/zapsite/src/App.css" timestamp="1558660482220" />
       <file name="$USER_HOME$/Desktop/zapsite/src/index.css" timestamp="1558660554624">
@@ -18,22 +22,22 @@
         <mark key="." line="0" column="33" />
       </file>
       <file name="$USER_HOME$/Desktop/zapsite/src/App.js" timestamp="1558660512628" />
-      <file name="$USER_HOME$/Desktop/zapsite/src/pages/index.js" timestamp="1558658515393">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/me/src/components/sidebar.jsx" timestamp="1558711366138">
+      <file name="$USER_HOME$/git/me/src/components/sidebar.jsx" timestamp="1558713140701">
         <mark key="'" line="30" column="16" />
-        <mark key="[" line="11" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="79" />
+        <mark key="." line="20" column="66" />
       </file>
-      <file name="$USER_HOME$/git/me/src/components/about.jsx" timestamp="1558662349756">
+      <file name="$USER_HOME$/git/me/src/components/about.jsx" timestamp="1558713550175">
         <mark key="'" line="28" column="47" />
         <mark key="[" line="62" column="0" />
         <mark key="]" line="50" column="0" />
         <mark key="." line="49" column="38" />
       </file>
-      <file name="$USER_HOME$/git/me/src/App.js" timestamp="1558712255572">
-        <mark key="[" line="7" column="0" />
+      <file name="$USER_HOME$/git/me/src/App.js" timestamp="1558714176686">
+        <mark key="[" line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/git/me/src/components/blog.jsx" timestamp="1558713474022" />
       <file name="$USER_HOME$/Desktop/zapsite/src/App.test.js" timestamp="1558660533856" />
     </filemarks>
     <jumps>
@@ -43,13 +47,14 @@
       <jump line="6" column="0" filename="$USER_HOME$/WebstormProjects/zap/zapsite/src/App.js" />
       <jump line="28" column="47" filename="$USER_HOME$/git/me/src/components/about.jsx" />
       <jump line="30" column="16" filename="$USER_HOME$/git/me/src/components/sidebar.jsx" />
+      <jump line="340" column="0" filename="$USER_HOME$/git/me/src/components/ImageGallery.jsx" />
     </jumps>
     <registers>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aDM+PC9oMz4K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>ImageGallery'</text>
+        <text>Projects</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgIExlYXJuIFJlYWN0Cg==</text>
@@ -70,7 +75,7 @@
         <text encoding="base64">IGNsYXNzTmFtZT0iQXBwIj4KICAgICAgICA8aGVhZGVyIGNsYXNzTmFtZT0iQXBwLWhlYWRlciI+CiAgICAgICAgICA8aW1nIHNyYz17bG9nb30gY2xhc3NOYW1lPSJBcHAtbG9nbyIgYWx0PSJsb2dvIiAvPgogICAgICAgICAgPHA+CiAgICAgICAgICAgIEVkaXQgPGNvZGU+c3JjL0FwcC5qczwvY29kZT4gYW5kIHNhdmUgdG8gcmVsb2FkLgogICAgICAgICAgPC9wPgogICAgICAgICAgPGEKICAgICAgICAgICAgY2xhc3NOYW1lPSJBcHAtbGluayIKICAgICAgICAgICAgaHJlZj0iaHR0cHM6Ly9yZWFjdGpzLm9yZyIKICAgICAgICAgICAgdGFyZ2V0PSJfYmxhbmsiCiAgICAgICAgICAgIHJlbD0ibm9vcGVuZXIgbm9yZWZlcnJlciIKICAgICAgICAgID4KICAgICAgICAgICAgTGVhcm4gUmVhY3QKICAgICAgICAgIDwvaGU=</text>
       </register>
       <register name="-" type="4">
-        <text>ImageGallery'</text>
+        <text>Projects</text>
       </register>
     </registers>
     <search>
